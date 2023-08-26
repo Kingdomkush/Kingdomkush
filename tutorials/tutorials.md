@@ -1,7 +1,7 @@
-# Kingdomkush
+# [Kingdomkush]()
 
-## Tutorials
+## [Tutorials]()
 
-- ### [Github]()
+- [Github](/Kingdomkush/tutorials/Github-centos7.md)
 
-- ### [Jenkins]()
+- [Jenkins](/Kingdomkush/tutorials/jenkins.md)
