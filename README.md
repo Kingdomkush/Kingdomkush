@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: <Kingdomkush91@gmail.com>
 
-  - [Tutorials](/Kingdomkush/tutorials/tutorials.md)
+  - [Tutorials](tutorials/tutorials.md)
 
 <!--
 **Kingdomkush/Kingdomkush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
