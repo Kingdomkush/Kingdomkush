@@ -4,13 +4,11 @@
 
 - Hello there
 
-- 🔭 I’m currently working on making simple easy to understand linux tutorials for beginners like myself.
+- 🔭 I’m currently working on making simple easy to understand linux [tutorials](tutorials/tutorials.md) for beginners like myself.
 
 - 🌱 I’m currently learning Linux System Administration, DevOps and Automation, virtualization, Docker, Python, Cyber Security.
 
 - 📫 How to reach me: <Kingdomkush91@gmail.com>
-
-  - [Tutorials](tutorials/tutorials.md)
 
 <!--
 **Kingdomkush/Kingdomkush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
