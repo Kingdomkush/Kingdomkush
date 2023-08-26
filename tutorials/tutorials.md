@@ -1,6 +1,6 @@
 # [Kingdomkush]()
 
-## [Tutorials]()
+## [Tutorials](/Kingdomkush/tutorials/)
 
 - [Github](/Kingdomkush/tutorials/Github-centos7.md)
 
