@@ -4,6 +4,7 @@
 
 - ### [Github](Github-centos7.md)
 
+- ### [Jenkins](jenkins.md)
 <!--
 **Kingdomkush/Kingdomkush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
