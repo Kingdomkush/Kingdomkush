@@ -1,6 +1,6 @@
-# KingdomKush
+# ✨KingdomKush✨
 
-## About me
+## ✨About me
 
 - Hello there
 
@@ -10,11 +10,8 @@
 
 - 📫 How to reach me: <Kingdomkush91@gmail.com>
 
-## Tutorials
+  - [Tutorials](/Kingdomkush/tutorials/tutorials.md)
 
-- ### [Github](tutorials/Github-centos7.md)
-
-- ### [Jenkins](tutorials/jenkins.md)
 <!--
 **Kingdomkush/Kingdomkush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
