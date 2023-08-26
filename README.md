@@ -4,6 +4,18 @@
 
 - Hello there
 
+- 🔭 I’m currently working on making simple easy to understand linux tutorials for beginners like myself.
+
+- 🌱 I’m currently learning Linux System Administration, DevOps and Automation, virtualization, Docker, Python, Cyber Security.
+
+- 👯 I’m looking to collaborate on ...
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
 ## Tutorials
 
 - ### [Github](Github-centos7.md)
