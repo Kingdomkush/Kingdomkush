@@ -8,13 +8,7 @@
 
 - 🌱 I’m currently learning Linux System Administration, DevOps and Automation, virtualization, Docker, Python, Cyber Security.
 
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
+- 📫 How to reach me: <Kingdomkush91@gmail.com>
 
 ## Tutorials
 
