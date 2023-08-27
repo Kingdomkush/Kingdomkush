@@ -4,7 +4,7 @@
 
 - Hello there
 
-- 🔭 I’m currently working on making simple easy to understand linux [tutorials](tutorials/tutorials.md) for beginners like myself.
+- 🔭 I’m currently working on making simple easy to understand linux [tutorials]() for beginners like myself.
 
 - 🌱 I’m currently learning Linux System Administration, DevOps and Automation, virtualization, Docker, Python, Cyber Security.
 
