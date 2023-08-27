@@ -1,4 +1,4 @@
 # Tutorials
 
-- [Github](/Kingdomkush/tutorials/Github-centos7.md)
-- [Jenkins](/Kingdomkush/tutorials/jenkins.md)
+- [Github](Github-centos7.md)
+- [Jenkins](jenkins.md)
